@@ -96,3 +96,12 @@ To understand how Netflix distributes its content across genres, countries, and 
 ---
 
 ## 📁 Project Structure
+Netflix-Content-Strategy-Analysis/
+│
+├── data/
+│ └── cleaned_netflix_data.csv
+├── analysis/
+│ └── analysis.py
+├── dashboard/
+│ └── Netflix_Content_Strategy_Dashboard.pbix
+├── README.md
